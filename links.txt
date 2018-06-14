@@ -3,3 +3,11 @@ https://github.com/trostinsky/trainee-react
 
 styled-components документация:
 https://www.google.com.ua/search?q=styled-components&oq=styled-com&aqs=chrome.1.69i57j0j69i60l4.3448j1j7&sourceid=chrome&ie=UTF-8
+
+Assets:
+https://drive.google.com/file/d/1OeRz_-CETV5JWTa1V8-pvSz-FL9aXjA8/view?usp=sharing
+
+Gradient:
+    background-image: -moz-linear-gradient( -10deg, rgb(222,255,201) 0%, rgb(163,248,255) 100%);
+    background-image: -webkit-linear-gradient( -10deg, rgb(222,255,201) 0%, rgb(163,248,255) 100%);
+    background-image: -ms-linear-gradient( -10deg, rgb(222,255,201) 0%, rgb(163,248,255) 100%);

@@ -1,5 +1,22 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: Montserrat;
+}
+
+@font-face {
+  src: url("/fonts/Montserrat-Bold.ttf");
+  font-family: 'Montserrat';
+  font-weight: 600;
+}
+@font-face {
+  src: url("/fonts/Montserrat-Regular.ttf");
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+
+@font-face {
+  src: url("/fonts/Chivo-Regular.ttf");
+  font-family: 'Chivo';
+  font-weight: 400;
 }
