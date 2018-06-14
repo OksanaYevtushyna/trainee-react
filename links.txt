@@ -1,0 +1,5 @@
+Репозиторий:
+https://github.com/trostinsky/trainee-react
+
+styled-components документация:
+https://www.google.com.ua/search?q=styled-components&oq=styled-com&aqs=chrome.1.69i57j0j69i60l4.3448j1j7&sourceid=chrome&ie=UTF-8
